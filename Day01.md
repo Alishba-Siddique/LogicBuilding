@@ -7,9 +7,7 @@
    - **Input:** **`42`**
    - **Output:** **`You entered: 42`**
 
-### Try It Yourself
-
-[![Run in Browser](https://shields.io)](https://onecompiler.com)
+### 💻 Interactive Integer Validator
 
 ```python
 def IntergerNum():
@@ -23,3 +21,19 @@ def IntergerNum():
     
 print("You Entered:", IntergerNum())
 ```
+
+<details>
+<summary><b>👀 Click to see how the console output looks</b></summary>
+
+```text
+Please Enter an Integer number: hello
+Invalid input. That is not a number!
+
+Please Enter an Integer number: 45.5
+Invalid input. That is not a number!
+
+Please Enter an Integer number: 42
+You Entered: 42
+```
+</details>
+
