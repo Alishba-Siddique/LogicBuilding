@@ -9,7 +9,7 @@
 
    #### Solution:
    <details>
-   <summary><b>👀 Click to see the solution & console preview</b></summary>
+   <summary><b>👀 Click to see the solution</b></summary>
 
    ```python
    def IntergerNum():
@@ -23,8 +23,11 @@
        
    print("You Entered:", IntergerNum())
    ```
+   </details>
 
-   **Expected Console Output:**
+   <details>
+   <summary><b>🖥️ Click to see how the console output looks</b></summary>
+
    ```text
    Please Enter an Integer number: hello
    Invalid input. That is not a number!
