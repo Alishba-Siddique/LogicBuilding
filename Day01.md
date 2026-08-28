@@ -8,7 +8,8 @@
    - **Output:** **`You entered: 42`**
 
    #### Solution:
-
+   <details>
+   <summary><b>👀 Click to see the solution</b></summary>
    ```python
    def IntergerNum():
        while True:
@@ -35,5 +36,7 @@
    Please Enter an Integer number: 42
    You Entered: 42
    ```
+   </details>
+   
    </details>
    
