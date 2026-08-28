@@ -4,12 +4,13 @@
 
    Write a program where the user is asked to enter an integer number, and the program prints that number back to them. For example:
 
-   - **Input:** **`42`**
-   - **Output:** **`You entered: 42`**
+   - **Input:** **`42`**
+   - **Output:** **`You entered: 42`**
 
    #### Solution:
    <details>
-   <summary><b>👀 Click to see the solution</b></summary>
+   <summary><b>👀 Click to see the solution & console preview</b></summary>
+
    ```python
    def IntergerNum():
        while True:
@@ -22,10 +23,8 @@
        
    print("You Entered:", IntergerNum())
    ```
-   
-   <details>
-   <summary><b>👀 Click to see how the console output looks</b></summary>
-   
+
+   **Expected Console Output:**
    ```text
    Please Enter an Integer number: hello
    Invalid input. That is not a number!
@@ -37,6 +36,3 @@
    You Entered: 42
    ```
    </details>
-   
-   </details>
-   
