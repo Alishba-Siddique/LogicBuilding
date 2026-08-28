@@ -7,7 +7,7 @@
    - **Input:** **`42`**
    - **Output:** **`You entered: 42`**
 
-### 💻 Interactive Integer Validator
+## Solution:
 
 ```python
 def IntergerNum():
