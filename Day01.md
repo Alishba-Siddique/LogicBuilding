@@ -23,7 +23,6 @@
        
    print("You Entered:", IntergerNum())
    ```
-   </details>
 
    <details>
    <summary><b>🖥️ Click to see how the console output looks</b></summary>
@@ -38,4 +37,6 @@
    Please Enter an Integer number: 42
    You Entered: 42
    ```
+   </details>
+
    </details>
